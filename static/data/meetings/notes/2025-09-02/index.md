@@ -1,12 +1,12 @@
-# Podman Community Cabal Agenda
- ## September 2, 2025 11:00 a.m. Eastern (UTC-4)
+# Podman Community Cabal Meeting Notes 
+## September 2, 2025 11:00 a.m. Eastern (UTC-4)
 
 ### Attendees
 Tom Sweeney, Gerald Sidman, Matt Heon, Paul Holzinger, Neil Smith, Jan Kaluza, Mohan Boddu, Brent Baude, Ashley Cui, Alex Guidi, Nalin Dahyabhai, Lokesh Mandvekar, Nicola Sella,  Jan Rodak, Miloslav Trmač
 
 ### Topics
 
- 1. CNCF updates - Zoom, channel changes ... - Neil Smith
+ 1. CNCF updates - Zoom, channel changes, and more - Neil Smith
  2. Mono Repo Update - Jan Kaluza
  3. Podman 6.0 updates - Brent Baude
 
@@ -19,7 +19,7 @@ Meeting start: 11:04 a.m. EDT (UTC-4)
 #### Quick Recap
 The Podman community cabal meeting covered updates on the transition to Zoom meetings, upcoming changes to Podman 6.0, including feature deprecations and removals, and the migration of supporting libraries to a new monorepo location. The team discussed upcoming blog posts and future meetings while addressing technical issues with the recording and concluded with follow-up questions about container storage.
 
-#### CNCF updates - Zoom, channel changes, and more! - Neil Smith - ([2:32](https://www.youtube.com/watch?v=Gzm6Rq7dOw4&t=152s) in the video) -
+#### CNCF updates - Zoom, channel changes, and more! - Neil Smith - ([2:32](https://www.youtube.com/watch?v=Gzm6Rq7dOw4&t=152s) in the video)
 
 Podman Community Transition Updates: The Podman Community Cabal meeting began with Tom welcoming attendees and explaining the transition to Zoom as part of their move to CNCF. 
 Neil provided updates on the community's shift to using Zoom for all meetings and increasing engagement in matrix and Discord channels. Due to John's absence, the Mono repo update was postponed, and Brent presented an overview of the Podman 6.0 updates, noting that the release is intended for spring next year and aims to align with Fedora 44.
